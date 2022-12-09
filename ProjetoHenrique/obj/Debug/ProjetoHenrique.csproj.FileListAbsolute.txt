@@ -1,0 +1,73 @@
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe.config
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.AssemblyReference.cache
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Inicio.resources
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Properties.Resources.resources
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.GenerateResource.cache
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.CoreCompileInputs.cache
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\source\repos\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.SalvarPalavras.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe.config
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.AssemblyReference.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Inicio.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Properties.Resources.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.SalvarPalavras.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.GenerateResource.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.CoreCompileInputs.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Conjunto.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Cadastrar.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Entrar.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarUsuarios.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe.config
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.AssemblyReference.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Cadastrar.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Conjunto.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Entrar.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Inicio.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarUsuarios.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Properties.Resources.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.SalvarPalavras.resources
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.GenerateResource.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.CoreCompileInputs.cache
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.exe
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.pdb
+C:\Users\CJ3012492\OneDrive - ifsp.edu.br\Linguagem 2\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.PraticarFrase.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.AssemblyReference.cache
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Cadastrar.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Conjunto.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Entrar.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarUsuarios.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.PraticarFrase.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Properties.Resources.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.Revisar.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.SalvarPalavras.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.GenerateResource.cache
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.exe
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.pdb
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe.config
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.exe
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\bin\Debug\ProjetoHenrique.pdb
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarConjunto.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.InfoConjunto.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.AdicionarConjunto.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarPalavras.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.AdicionarFlashCard.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.FlashCardsEmMassa.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.TelaInicial.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.PanelPalavras.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.ListarIdiomas.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.AdicionarIdioma.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.InfoUsuario.resources
+C:\Users\Henrique\Downloads\OneDrive_2022-11-28\Copia Para Teste\ProjetoHenrique\ProjetoHenrique\obj\Debug\ProjetoHenrique.TelaLogin.resources
